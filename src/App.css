@@ -2,7 +2,7 @@
   background-color: #121212;
   height: 100vh;
 }
-.header,.description,.account{
+.header,.description,.account,.total-rockets{
   color: #ffffff;
 }
 .alert{
